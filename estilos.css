@@ -1,0 +1,16 @@
+body {
+    background-color: aliceblue;
+}
+.container {
+    border-radius: 10px;
+}
+.card-header {
+    background-color: rgb(168, 215, 255);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: rgb(10, 36, 58)  ;
+    padding-top: 50px;
+}
+
+.card-footer {
+    background-color: rgb(168, 215, 255);
+}
